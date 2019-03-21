@@ -1,0 +1,11 @@
+{
+  "name": "kotlin-js-example",
+  "version": "1.0.0",
+  "description": "Test project for kotlin to js compilation",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "kotlin": "^1.3.21"
+  }
+}
